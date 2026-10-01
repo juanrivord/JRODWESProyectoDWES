@@ -18,59 +18,51 @@
     <main>
 
         <section id="UD1">
-            <h2>DESARROLLO WEB EN ENTORNO SERVIDOR</h2>
+            <h2>1.DESARROLLO WEB EN ENTORNO SERVIDOR</h2>
             <div class="caja_practicas">
-                <a href="./webroot/docs/EstudioTema1.pdf" class="cajas_imagenes">Estudio tema 1</a>
+                <a href="./webroot/docs/EstudioTema1.pdf" class="cajas_imagenes" target="_blank">Estudio tema 1</a>
             </div>
             
         </section>
 
-        <hr>
 
         <section id="UD2">
-            <h2>INSTALACIÓN, CONFIGURACIÓN Y DOCUMENTACIÓN DEL ENTORNO DE DESARROLLO Y DEL ENTORNO DE EXPLOTACIÓN</h2>
+            <h2>2.INSTALACIÓN, CONFIGURACIÓN Y DOCUMENTACIÓN DEL ENTORNO DE DESARROLLO Y DEL ENTORNO DE EXPLOTACIÓN</h2>
             
         </section>
 
-        <hr>
 
         <section id="UD3">
-            <a href="../DWESProyectoTema3/indexProyectoTema3.php"><h2>CARACTERÍSTICAS DEL LENGUAJE PHP</h2></a>
+            <a href="../DWESProyectoTema3/indexProyectoTema3.php"><h2>3.CARACTERÍSTICAS DEL LENGUAJE PHP</h2></a>
             
         </section>
 
-        <hr>
 
         <section id="UD4">
-            <h2>TÉCNICAS DE ACCESO A DATOS EN PHP</h2>
+            <h2>4.TÉCNICAS DE ACCESO A DATOS EN PHP</h2>
 
         </section>
-
-        <hr>
 
         <section id="UD5">
-            <h2>DESARROLLO DE APLICACIONES WEB</h2>
+            <h2>5.DESARROLLO DE APLICACIONES WEB</h2>
             
         </section>
 
-        <hr>
 
         <section id="#UD6">
-            <h2>APLICACIONES WEB MULTICAPA</h2>
+            <h2>6.APLICACIONES WEB MULTICAPA</h2>
             
         </section>
 
-        <hr>
 
         <section id="UD7">
-            <h2>PROGRAMACIÓN DE SERVICIOS WEB</h2>
+            <h2>7.PROGRAMACIÓN DE SERVICIOS WEB</h2>
             
         </section>
         
-        <hr>
         
         <section id="UD8">
-            <h2>DESARROLLO DE APLICACIONES WEB HÍBRIDAS</h2>
+            <h2>8.DESARROLLO DE APLICACIONES WEB HÍBRIDAS</h2>
             
         </section>
 
@@ -79,8 +71,8 @@
     <footer>
         <address>
             <p>&copy; 2025-2026 <span><a href="../index.html">Juan Rivera Ordoñez</a></span>- I.E.S. Los Sauces</p>
-            <p>Ultima actualización de la página: <time datetime="2026-09-29 10:05">29 de Septiembre de 2026 a las 10:05</time></p>
-            <a href="https://github.com/juanrivord?tab=repositories"><img src="./webroot/images/github.png" alt="Imagen de github"></a>
+            <p>Ultima actualización de la página: <time datetime="2026-10-01 13:36">01 de Octubre de 2026 a las 13:36</time></p>
+            <p><a href="https://github.com/juanrivord/JRODWESProyectoDWES"><img src="./webroot/images/github.png" alt="Imagen de github"></a></p>
         </address>
     </footer>
 </body>

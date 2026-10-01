@@ -59,7 +59,7 @@ main {
 }
 
 section {
-    margin-bottom: 40px;
+    margin-bottom: 20px;
 }
 
 h2 {
@@ -70,18 +70,8 @@ h2 {
     margin-bottom: 30px;
 }
 
-hr {
-    border: 0;
-    height: 1px;
-    background: #e2e8f0;
-    margin: 50px 0;
-}
-
-
 .caja_practicas {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    gap: 15px;
+    display: inline-block;
 }
 
 .cajas_imagenes {
@@ -89,7 +79,7 @@ hr {
     text-align: center;
     background-color: #ffffff;
     border-radius: 12px;
-    padding: 20px 30px;
+    padding: 10px 15px;
     border: 1px solid #e2e8f0;
     text-decoration: none;
     transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
@@ -130,33 +120,12 @@ hr {
     color: #4f46e5;
 }
 
-
-/* --- Botón Modo Oscuro --- */
-#boton-tema {
-    position: absolute;
-    top: 20px;
-    right: 20px;
-    background: rgba(255,255,255,0.15);
-    border: none;
-    color: white;
-    padding: 8px 16px;
-    border-radius: 20px;
-    cursor: pointer;
-    font-size: 0.85rem;
-    font-weight: 600;
-    backdrop-filter: blur(4px);
-    transition: 0.5s;
-}
-
-#boton-tema:hover {
-    background: rgba(255,255,255,0.3);
-}
-
 /* --- FOOTER --- */
 footer {
+    background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%);
     text-align: center;
     padding: 20px 20px;
-    color: #4d5d73;
+    color: white;
     font-size: 0.9rem;
     border-top: #f1f5f9 solid 1px;
 }
@@ -168,10 +137,10 @@ footer a {
 }
 
 footer img{
+    background-color: white;
+    border-radius: 50px;
     width: 2%;
-    background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%);
     display: inline-block;
-    margin:auto;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
 }
 
@@ -179,56 +148,4 @@ footer img:hover{
     transform: translateY(-2px);
 }
 
-.social-links {
-    margin-top: 15px;
-    font-size: 1.5rem;
-}
 
-.social-links a {
-    margin: 0 10px;
-    color: #94a3b8;
-    transition: color 0.3s;
-}
-
-.social-links a:hover {
-    color: #4f46e5;
-}
-
-/* --- MODO OSCURO --- */
-body.modo-oscuro {
-    background-color: #0f172a;
-    color: #cbd5e1;
-}
-
-body.modo-oscuro main {
-    background-color: #1e293b;
-    box-shadow: none;
-}
-
-body.modo-oscuro h2 {
-    color: #f8fafc;
-    border-left-color: #818cf8;
-}
-
-body.modo-oscuro .cajas_imagenes {
-    background-color: #334155;
-    border-color: #475569;
-}
-
-body.modo-oscuro .icon-box {
-    background-color: #0f172a; 
-}
-
-body.modo-oscuro .icon-box:hover {
-    background-color: #d3d3d3; 
-}
-
-body.modo-oscuro #buscador {
-    background-color: #1e293b;
-    border-color: #475569;
-    color: white;
-}
-body.modo-oscuro #buscador:focus {
-    border-color: #818cf8;
-    box-shadow: 0 0 0 4px rgba(129, 140, 248, 0.1);
-}
