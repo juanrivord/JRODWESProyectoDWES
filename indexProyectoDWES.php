@@ -28,7 +28,7 @@
 
         <section id="UD2">
             <h2>2.INSTALACIÓN, CONFIGURACIÓN Y DOCUMENTACIÓN DEL ENTORNO DE DESARROLLO Y DEL ENTORNO DE EXPLOTACIÓN</h2>
-                <a href="../docs/Guia_Instalacion_JRO_USED.md" class="cajas_imagenes" target="_blank">Documentacion 1</a>
+                <a href="https://github.com/juanrivord/JRODAWProyectoDAW/blob/main/docs/Guia_Instalacion_JRO_USED.md" class="cajas_imagenes" target="_blank">Documentacion 1</a>
         </section>
 
 
