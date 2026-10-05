@@ -28,12 +28,12 @@
 
         <section id="UD2">
             <h2>2.INSTALACIÓN, CONFIGURACIÓN Y DOCUMENTACIÓN DEL ENTORNO DE DESARROLLO Y DEL ENTORNO DE EXPLOTACIÓN</h2>
-            
+                <a href="../docs/Guia_Instalacion_JRO_USED.md" class="cajas_imagenes" target="_blank">Documentacion 1</a>
         </section>
 
 
         <section id="UD3">
-            <a href="../DWESProyectoTema3/indexProyectoTema3.php"><h2>3.CARACTERÍSTICAS DEL LENGUAJE PHP</h2></a>
+            <a href="../JRODWESProyectoTema3/indexProyectoTema3.php"><h2>3.CARACTERÍSTICAS DEL LENGUAJE PHP</h2></a>
             
         </section>
 
