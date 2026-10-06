@@ -29,6 +29,7 @@
         <section id="UD2">
             <h2>2.INSTALACIÓN, CONFIGURACIÓN Y DOCUMENTACIÓN DEL ENTORNO DE DESARROLLO Y DEL ENTORNO DE EXPLOTACIÓN</h2>
                 <a href="https://github.com/juanrivord/JRODAWProyectoDAW/blob/main/docs/Guia_Instalacion_JRO_USED.md" class="cajas_imagenes" target="_blank">Documentacion 1</a>
+                <a href="https://github.com/juanrivord/JRODAWProyectoDAW/blob/main/docs/Guia_proyectos_JRO_VSC.md" class="cajas_imagenes" target="_blank">Documentacion 2</a>
         </section>
 
 
@@ -39,7 +40,7 @@
 
 
         <section id="UD4">
-            <h2>4.TÉCNICAS DE ACCESO A DATOS EN PHP</h2>
+            <a href="../DWESProyecto4/indexProyectoTema3.php"><h2>4.TÉCNICAS DE ACCESO A DATOS EN PHP</h2></a>
 
         </section>
 
