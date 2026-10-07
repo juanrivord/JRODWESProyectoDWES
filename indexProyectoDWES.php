@@ -28,8 +28,8 @@
 
         <section id="UD2">
             <h2>2.INSTALACIÓN, CONFIGURACIÓN Y DOCUMENTACIÓN DEL ENTORNO DE DESARROLLO Y DEL ENTORNO DE EXPLOTACIÓN</h2>
-                <a href="https://github.com/juanrivord/JRODAWProyectoDAW/blob/main/docs/Guia_Instalacion_JRO_USED.md" class="cajas_imagenes" target="_blank">Instalacion USED</a>
-                <a href="https://github.com/juanrivord/JRODAWProyectoDAW/blob/main/docs/Guia_proyectos_JRO_VSC.md" class="cajas_imagenes" target="_blank">Proyectos VSC</a>
+                <a href="https://github.com/juanrivord/JRODAWProyectoDAW/blob/main/docs/Guia_Instalacion_JRO_USED.md" class="cajas_imagenes" target="_blank">USED - Servidor Web</a>
+                <a href="https://github.com/juanrivord/JRODAWProyectoDAW/blob/main/docs/Guia_proyectos_JRO_VSC.md" class="cajas_imagenes" target="_blank">W11ED - Cliente</a>
         </section>
 
 
