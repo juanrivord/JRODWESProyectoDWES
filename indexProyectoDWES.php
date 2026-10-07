@@ -28,8 +28,8 @@
 
         <section id="UD2">
             <h2>2.INSTALACIÓN, CONFIGURACIÓN Y DOCUMENTACIÓN DEL ENTORNO DE DESARROLLO Y DEL ENTORNO DE EXPLOTACIÓN</h2>
-                <a href="https://github.com/juanrivord/JRODAWProyectoDAW/blob/main/docs/Guia_Instalacion_JRO_USED.md" class="cajas_imagenes" target="_blank">Documentacion 1</a>
-                <a href="https://github.com/juanrivord/JRODAWProyectoDAW/blob/main/docs/Guia_proyectos_JRO_VSC.md" class="cajas_imagenes" target="_blank">Documentacion 2</a>
+                <a href="https://github.com/juanrivord/JRODAWProyectoDAW/blob/main/docs/Guia_Instalacion_JRO_USED.md" class="cajas_imagenes" target="_blank">Instalacion USED</a>
+                <a href="https://github.com/juanrivord/JRODAWProyectoDAW/blob/main/docs/Guia_proyectos_JRO_VSC.md" class="cajas_imagenes" target="_blank">Proyectos VSC</a>
         </section>
 
 
@@ -72,7 +72,6 @@
     <footer>
         <address>
             <p>&copy; 2025-2026 <span><a href="../index.html">Juan Rivera Ordoñez</a></span>- I.E.S. Los Sauces</p>
-            <p>Ultima actualización de la página: <time datetime="2026-10-01 13:36">01 de Octubre de 2026 a las 13:36</time></p>
             <p><a href="https://github.com/juanrivord/JRODWESProyectoDWES"><img src="./webroot/images/github.png" alt="Imagen de github"></a></p>
         </address>
     </footer>
