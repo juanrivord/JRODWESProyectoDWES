@@ -46,8 +46,8 @@
 
         <section id="UD5">
             <h2>5.DESARROLLO DE APLICACIONES WEB</h2>
-            <a href="../JRODWESProyectoTema5/indexProyectoTema5.php" class="cajas_imagenes" target="_blank">Proyecto tema 5</a>
-            <a href="../JRODWESProyectoLoginLogoffTema5/indexProyectoLoginLogoffTema5.php" class="cajas_imagenes" target="_blank">Proyecto LoginLogoff tema 5</a>
+            <a href="../JRODWESProyectoTema5/indexProyectoTema5.php" class="cajas_imagenes">Proyecto tema 5</a>
+            <a href="../JRODWESProyectoLoginLogoffTema5/indexProyectoLoginLogoffTema5.php" class="cajas_imagenes">Proyecto LoginLogoff tema 5</a>
             
         </section>
 
